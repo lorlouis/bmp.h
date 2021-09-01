@@ -1,5 +1,5 @@
-OBJS	= main.o bmp.o
-SOURCE	= main.c bmp.c
+OBJS	= main.o
+SOURCE	= main.c
 HEADER	=
 OUT	= a.out
 CC	= gcc
